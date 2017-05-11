@@ -1,0 +1,101 @@
+id;isBook;title;year;citedBy;url
+1;false;Manifesto for agile software development;2001;Citado por 2371;http://nlp.chonbuk.ac.kr/SE/ch05.pdf
+2;true;Effective Software Testing: 50 Ways to Improve Your Software Testing;2002;Citado por 178;http://dl.acm.org/citation.cfm?id=579099
+3;false;Bioconductor: open software development for computational biology and bioinformatics;2004;Citado por 9357;https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80
+4;false;Guest editors' introduction: Software testing practices in industry;2006;Citado por 45;http://ieeexplore.ieee.org/abstract/document/1657934/
+5;false;A research agenda for distributed software development;2006;Citado por 249;http://dl.acm.org/citation.cfm?id=1134402
+6;false;Lessons from three years of inspection data (software development);1993;Citado por 212;http://ieeexplore.ieee.org/abstract/document/232397/
+7;false;Testing component-based software: A cautionary tale;1998;Citado por 376;http://ieeexplore.ieee.org/abstract/document/714817/
+8;false;Two case studies of open source software development: Apache and Mozilla;2002;Citado por 1779;http://dl.acm.org/citation.cfm?id=567795
+9;false;Combining unit-level symbolic execution and system-level concrete execution for testing NASA software;2008;Citado por 235;http://dl.acm.org/citation.cfm?id=1390635
+10;false;A survey of unit testing practices;2006;Citado por 144;http://ieeexplore.ieee.org/abstract/document/1657935/
+11;false;Risks and challenges of component-based software development;2003;Citado por 162;http://dl.acm.org/citation.cfm?id=859671
+12;false;Software penetration testing;2005;Citado por 173;http://ieeexplore.ieee.org/abstract/document/1392709/
+13;false;Assessing test-driven development at IBM;2003. …;Citado por 235;http://ieeexplore.ieee.org/abstract/document/1201238/
+14;false;An incremental approach to unit testing during maintenance;1988.;Citado por 174;http://ieeexplore.ieee.org/abstract/document/10188/
+15;true;Unit Test Frameworks: Tools for High-Quality Software Development;2004;Citado por 181;https://books.google.com.br/books?hl=pt-BR&lr=&id=2ksvdhhnWQsC&oi=fnd&pg=PT7&dq=%22unit+testing%22+AND+%22software+development%22&ots=AK6Y-5QSC0&sig=wzFAAtUn6_YOlXyNJYeCj_Nb3wM
+16;false;Collecting and categorizing software error data in an industrial environment;1984;Citado por 125;http://www.sciencedirect.com/science/article/pii/0164121284900281
+17;false;Integrating unit testing into a software development team's process;2001;Citado por 20;https://pdfs.semanticscholar.org/65a2/c53ee396c9903257046472addf5cab69ecbc.pdf
+18;false;What is software testing? And why is it so hard?;2000;Citado por 381;http://ieeexplore.ieee.org/abstract/document/819971/
+19;false;The growth of software testing;1988;Citado por 258;http://dl.acm.org/citation.cfm?id=62965
+20;false;Systematic literature reviews in software engineering–a systematic literature review;2009;Citado por 932;http://www.sciencedirect.com/science/article/pii/S0950584908001390
+21;false;Investigating and improving a COTS-based software development process;2000;Citado por 173;http://ieeexplore.ieee.org/abstract/document/870394/
+22;false;Data-flow-based unit testing of aspect-oriented programs;2003. COMPSAC 2003 …;Citado por 159;http://ieeexplore.ieee.org/abstract/document/1245340/
+23;false;Software development of real-time systems;1986;Citado por 114;http://dl.acm.org/citation.cfm?id=6150
+24;false;A plan-based intelligent assistant that supports the software development;1989;Citado por 139;http://dl.acm.org/citation.cfm?id=65012
+25;false;Software testing research: Achievements, challenges, dreams;2007;Citado por 688;http://dl.acm.org/citation.cfm?id=1254712
+26;false;Effects of process maturity on quality, cycle time, and effort in software product development;2000;Citado por 550;http://pubsonline.informs.org/doi/abs/10.1287/mnsc.46.4.451.12056
+27;false;JUnit: unit testing and coiling in tandem;2005;Citado por 52;http://ieeexplore.ieee.org/abstract/document/1463200/
+28;false;Embracing change with extreme programming;1999;Citado por 1160;http://ieeexplore.ieee.org/abstract/document/796139/
+29;false;Software debugging, testing, and verification;2002;Citado por 285;http://ieeexplore.ieee.org/abstract/document/5386906/
+30;false;Symbolic execution for software testing in practice: preliminary assessment;2011;Citado por 238;http://dl.acm.org/citation.cfm?id=1985995
+31;false;Software quality and agile methods;2004;Citado por 175;http://ieeexplore.ieee.org/abstract/document/1342889/
+32;false;Unit testing in multi-agent systems using mock agents and aspects;2006;Citado por 90;http://dl.acm.org/citation.cfm?id=1138079
+33;false;A comparison between five models of software engineering;2010;Citado por 211;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.8120&rep=rep1&type=pdf#page=115
+34;false;Test-driven development concepts, taxonomy, and future direction;2005;Citado por 255;http://ieeexplore.ieee.org/abstract/document/1510569/
+35;false;Software reliability growth models with testing-effort;1986;Citado por 273;http://ieeexplore.ieee.org/abstract/document/4335332/
+36;false;Object-oriented integration testing;1994;Citado por 250;http://dl.acm.org/citation.cfm?id=182989
+37;false;Regression testing in an industrial environment;1998;Citado por 253;http://dl.acm.org/citation.cfm?id=274960
+38;false;Testing object‐oriented software: a survey;Verification and Reliability;Citado por 172;http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099-1689(199609/12)6:3/4%3C125::AID-STVR121%3E3.0.CO;2-X/full?scrollTo=references
+39;false;COTS-based software development: Processes and open issues;2002;Citado por 132;http://www.sciencedirect.com/science/article/pii/S0164121201001479
+40;false;Sunit: A unit testing framework for test driven development of multi-agent systems;2006;Citado por 51;http://link.springer.com/chapter/10.1007/978-3-540-70945-9_10
+41;false;Unit testing: test early, test often;2003;Citado por 60;http://dl.acm.org/citation.cfm?id=948830
+42;true;Integrating agile development in the real world;2004;Citado por 111;http://dl.acm.org/citation.cfm?id=1044869
+43;false;Software security engineering;2009;Citado por 130;http://tocs.ulb.tu-darmstadt.de/215281349.pdf
+44;false;Integrating usability engineering and agile software development: A literature review;2010;Citado por 107;http://ieeexplore.ieee.org/abstract/document/5540916/
+45;true;Testing in software development;1986;Citado por 76;https://books.google.com.br/books?hl=pt-BR&lr=&id=utFCImZOTEIC&oi=fnd&pg=PA1&dq=%22unit+testing%22+AND+%22software+development%22&ots=pdUB23vblp&sig=G8EY77mj7VERMkzoojNyyOwWFQQ
+46;false;Software inspections: an effective verification process;1989;Citado por 297;http://ieeexplore.ieee.org/abstract/document/28121/
+47;false;Making sense of software development and personality types;2010;Citado por 139;http://ieeexplore.ieee.org/abstract/document/5403172/
+48;false;Comparing the effectiveness of software testing strategies;1987;Citado por 619;http://ieeexplore.ieee.org/abstract/document/1702179/
+49;false;Software product line testing–a systematic mapping study;2011;Citado por 206;http://www.sciencedirect.com/science/article/pii/S0950584910001709
+50;false;Introducing unit testing with BlueJ;2003;Citado por 64;http://dl.acm.org/citation.cfm?id=961518
+51;false;[CITAÇÃO] Software testing techniques;2003;Citado por 3949;
+52;false;Essential communication practices for Extreme Programming in a global software development team;2006;Citado por 243;http://www.sciencedirect.com/science/article/pii/S0950584906000024
+53;false;Analysis of incorporating logistic testing-effort function into software reliability modeling;2002;Citado por 167;http://ieeexplore.ieee.org/abstract/document/1028398/
+54;false;Experimentation in software engineering;1986;Citado por 750;http://ieeexplore.ieee.org/abstract/document/6312975/
+55;false;An overview of JML tools and applications11www. jmlspecs. org;2003;Citado por 996;http://www.sciencedirect.com/science/article/pii/S1571066104808107
+56;true;The art of software testing;2011;Citado por 5456;https://books.google.com.br/books?hl=pt-BR&lr=&id=GjyEFPkMCwcC&oi=fnd&pg=PT5&dq=%22unit+testing%22+AND+%22software+development%22&ots=AgzQKYi_-n&sig=-Eh2Pn0g9cCuRg3Cc2AGF86_YuA
+57;false;An experience in integrating automated unit testing practices in an introductory programming course;2002;Citado por 46;http://dl.acm.org/citation.cfm?id=820183
+58;false;Scenario based integration testing for object-oriented software development;1999;Citado por 26;http://ieeexplore.ieee.org/abstract/document/810764/
+59;false;A structured experiment of test-driven development;2004;Citado por 196;http://www.sciencedirect.com/science/article/pii/S0950584903002040
+60;false;Stochastic simulation of risk factor potential effects for software development risk management;2001;Citado por 126;http://www.sciencedirect.com/science/article/pii/S0164121201000668
+61;false;Testing: a roadmap;2000;Citado por 479;http://dl.acm.org/citation.cfm?id=336532
+62;false;Globally distributed software development project performance: an empirical analysis;2007;Citado por 121;http://dl.acm.org/citation.cfm?id=1287643
+63;false;The combinatorial design approach to automatic test generation;1996;Citado por 428;http://ieeexplore.ieee.org/abstract/document/536462/
+64;false;A complete automation of unit testing for Java programs;2005;Citado por 66;http://digitalcommons.utep.edu/cs_techrep/234/
+65;false;TestTube: A system for selective regression testing;1994;Citado por 345;http://dl.acm.org/citation.cfm?id=257769
+66;false;Management of software development;1977;Citado por 138;http://ieeexplore.ieee.org/abstract/document/1702431/
+67;false;Test-driven development as a defect-reduction practice;2003. ISSRE …;Citado por 182;http://ieeexplore.ieee.org/abstract/document/1251029/
+68;false;Evaluating the efficacy of test-driven development: industrial case studies;2006;Citado por 150;http://dl.acm.org/citation.cfm?id=1159787
+69;false;Software reliability models: Assumptions, limitations, and applicability;1985;Citado por 926;http://ieeexplore.ieee.org/abstract/document/1701963/
+70;false;When to migrate software testing to the cloud?;Verification;Citado por 70;http://ieeexplore.ieee.org/abstract/document/5463680/
+71;false;Design complexity measurement and testing;1989;Citado por 438;http://dl.acm.org/citation.cfm?id=76382
+72;false;Modeling software testing processes;1996;Citado por 29;http://ieeexplore.ieee.org/abstract/document/493647/
+73;false;Mobile-D: an agile approach for mobile application development;2004;Citado por 166;http://dl.acm.org/citation.cfm?id=1028736
+74;false;Five ways to destroy a development project (software development);1993;Citado por 76;http://ieeexplore.ieee.org/abstract/document/232400/
+75;false;Testing a software product line;2001;Citado por 206;http://repository.cmu.edu/sei/630/
+76;false;Managing risk in software development projects: a case study;2007;Citado por 93;http://www.emeraldinsight.com/doi/abs/10.1108/02635570710723859
+77;false;Agile software testing in a large-scale project;2006;Citado por 109;http://ieeexplore.ieee.org/abstract/document/1657936/
+78;false;Automating software testing using program analysis;2008;Citado por 105;http://ieeexplore.ieee.org/abstract/document/4602671/
+79;false;Software testing;2010;Citado por 39;http://search.proquest.com/openview/0cf4e50419b269bfefbdee7da9c0bae5/1?pq-origsite=gscholar&cbl=1606379
+80;false;DART: directed automated random testing;2005;Citado por 2071;http://dl.acm.org/citation.cfm?id=1065036
+81;false;Extreme programming from a CMM perspective;2001;Citado por 458;http://ieeexplore.ieee.org/abstract/document/965798/
+82;false;Does test-driven development really improve software design quality?;2008;Citado por 108;http://ieeexplore.ieee.org/abstract/document/4455636/
+83;false;On coordination mechanisms in global software development;2007. ICGSE 2007. …;Citado por 124;http://ieeexplore.ieee.org/abstract/document/4299841/
+84;false;Lean software development;2008;Citado por 51;http://www.ieee-stc.org/proceedings/2010/pdfs/CH2541.pdf
+85;false;Empirical studies of agile software development: A systematic review;2008;Citado por 1595;http://www.sciencedirect.com/science/article/pii/S0950584908000256
+86;false;Randoop: feedback-directed random testing for Java;2007;Citado por 204;http://dl.acm.org/citation.cfm?id=1297902
+87;false;Insights into regression testing (software testing);1989.;Citado por 406;http://ieeexplore.ieee.org/abstract/document/65194/
+88;false;Improving software development management through software project telemetry;2005;Citado por 91;http://ieeexplore.ieee.org/abstract/document/1463212/
+89;false;Extreme programming: A humanistic discipline of software development;1998;Citado por 46;http://www.springerlink.com/index/l6463p5k114r0876.pdf
+90;false;Hitting the target: adding interaction design to agile software development;2002;Citado por 121;http://dl.acm.org/citation.cfm?id=604255
+91;false;Developing an object-oriented software testing and maintenance environment;1995;Citado por 138;http://dl.acm.org/citation.cfm?id=226256
+92;false;Managing software development in globally distributed teams;2008;Citado por 80;http://dl.acm.org/citation.cfm?id=1314218
+93;false;Optimal allocation policies for testing-resource based on a software reliability growth model;1995;Citado por 80;http://www.sciencedirect.com/science/article/pii/089571779500207I
+94;false;A firewall concept for both control-flow and data-flow in regression integration testing;1992. …;Citado por 174;http://ieeexplore.ieee.org/abstract/document/242535/
+95;false;The economic impacts of inadequate infrastructure for software testing;RTI …;Citado por 553;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.3316&rep=rep1&type=pdf
+96;false;An experiment to assess the cost-benefits of code inspections in large scale software development;1997;Citado por 189;http://ieeexplore.ieee.org/abstract/document/601071/
+97;true;User stories applied: For agile software development;2004;Citado por 1057;https://books.google.com.br/books?hl=pt-BR&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR15&dq=%22unit+testing%22+AND+%22software+development%22&ots=Vp_cc7oTNN&sig=JKZewBQjl6xX2cOoLYzzOHG7P_U
+98;false;Usage and perceptions of agile software development in an industrial context: An exploratory study;2007;Citado por 204;http://ieeexplore.ieee.org/abstract/document/4343753/
+99;false;Embedded software: Facts, figures, and future;2009;Citado por 276;http://ieeexplore.ieee.org/abstract/document/5054871/
+100;false;What do we know about defect detection methods?[software testing];2006;Citado por 107;http://ieeexplore.ieee.org/abstract/document/1628944/

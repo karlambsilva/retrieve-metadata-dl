@@ -9,18 +9,15 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import common.Browser;
+import common.Browser2;
 
 
-public class Testes extends Browser{
+public class Testes extends Browser2{
 	
 	@BeforeClass
 	public static void setup() throws InterruptedException{
 		
 		Thread.sleep(2000);
-		
-		
-		
 	}
 	
 //	@Test
